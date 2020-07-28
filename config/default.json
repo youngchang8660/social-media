@@ -1,0 +1,3 @@
+{
+    "mongoURL": "mongodb+srv://react:node@chat.spepy.mongodb.net/Chat?retryWrites=true&w=majority"
+}
